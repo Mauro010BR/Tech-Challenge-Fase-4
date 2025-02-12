@@ -45,3 +45,11 @@ desenvolvimento do seu projeto.
 ## Vídeo de Apresentação
 [Link para o vídeo explicando o projeto]
 
+
+Power BI:
+
+![image](https://github.com/user-attachments/assets/aed939f1-1063-4183-8286-74e3ae4ae7a9)
+
+Modelo de ML em Produção:
+
+![image](https://github.com/user-attachments/assets/410b4c90-3e38-445c-9e2c-3db7593da39e)

@@ -41,6 +41,8 @@ desenvolvimento do seu projeto.
 - Dashboard interativo com insights relevantes sobre a variação do preço do petróleo.
 - Modelo de Machine Learning para previsão diária do preço do petróleo.
 - MVP do projeto disponível em Streamlit.
+## Link StreamLit
+https://tech-challenge-fase-4-data-analytics.streamlit.app/
 
 ## Vídeo de Apresentação
 [Link para o vídeo explicando o projeto]

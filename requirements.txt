@@ -1,0 +1,5 @@
+streamlit==1.42.0
+joblib==1.4.2
+pandas==2.2.2
+prophet==1.1.6
+plotly==5.24.1

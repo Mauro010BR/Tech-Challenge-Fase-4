@@ -42,7 +42,7 @@ desenvolvimento do seu projeto.
 - Modelo de Machine Learning para previsão diária do preço do petróleo.
 - MVP do projeto disponível em Streamlit.
 ## Link StreamLit
-https://tech-challenge-fase-4-data-analytics.streamlit.app/
+[https://tech-challenge-fase-4-data-analytics.streamlit.app/](https://tech-challenge-fase-4-data-analytics-fiap.streamlit.app/)
 
 ## Vídeo de Apresentação
 [Link para o vídeo explicando o projeto]

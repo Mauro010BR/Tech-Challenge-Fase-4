@@ -47,6 +47,8 @@ desenvolvimento do seu projeto.
 ## Vídeo de Apresentação
 [Link para o vídeo explicando o projeto]
 
+## Link da aplicação:
+https://tech-challenge-fase-4-data-analytics.streamlit.app/
 
 Power BI:
 

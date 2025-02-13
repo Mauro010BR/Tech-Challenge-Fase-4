@@ -45,7 +45,7 @@ desenvolvimento do seu projeto.
 [https://tech-challenge-fase-4-data-analytics.streamlit.app/](https://tech-challenge-fase-4-data-analytics-fiap.streamlit.app/)
 
 ## Vídeo de Apresentação
-[Link para o vídeo explicando o projeto]
+[[Link para o vídeo explicando o projeto](https://youtu.be/UUI1kNkDpRE)]
 
 
 Power BI:
